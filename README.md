@@ -8,7 +8,7 @@
 
 Player 1: W - move up; S - move down
 
-Player 2: ↑ - move up; ↓ - move down
+Player 2: ↑ - move up; ↓ - move down (arrow keys)
 
 ## Known Issues
 - The replit window may too small, dependingon your zoom level. For me though, scaling at 100% on my 1440p monitor at home looks fine. Open this game in a new tab (popout arrow in the top right corner of the drawing window) if you have space problems
