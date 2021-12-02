@@ -15,4 +15,4 @@ Player 2: ↑ - move up; ↓ - move down
 - If you open a different tab then switch back to Pong, the speed sometimes raises too quickly and without any contact. If this glitch happens, reload the page or sometimes it may naturally go back to normal after a few rounds.
 - This website will keep running in the background, I haven't made the game go to sleep once focus is lost.
 
-# [Play Here!] (https://PongRemastered.kingtastic.repl.co)
+# [Play Here!](https://PongRemastered.kingtastic.repl.co)
