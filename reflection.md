@@ -4,3 +4,4 @@ In this project, I created a clone of the famous Atari game "Pong". This game wa
 
 To create such a game, all six things would have to be used to different extents. For example, seeing if the ball went off of the field or a paddle required a conditional, and the score would be kept in a variable.
 
+Additional life lesson: make sure you read before you make any nuclear actions. There was clashing info in between github/replit and I accidentally clicked ("use github data") that was outdated and nearly nuked my reflection along with other parts of the code, if it wasn't for the non sectarian god known as version history.
