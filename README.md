@@ -10,9 +10,4 @@ Player 1: W - move up; S - move down
 
 Player 2: ↑ - move up; ↓ - move down (arrow keys)
 
-## Known Issues
-- The replit window may too small, dependingon your zoom level. For me though, scaling at 100% on my 1440p monitor at home looks fine. Open this game in a new tab (popout arrow in the top right corner of the drawing window) if you have space problems
-- If you open a different tab then switch back to Pong, the speed sometimes raises too quickly and without any contact. If this glitch happens, reload the page or sometimes it may naturally go back to normal after a few rounds.
-- This website will keep running in the background, I haven't made the game go to sleep once focus is lost.
-
 # [Play Here!](https://PongRemastered.kingtastic.repl.co)
